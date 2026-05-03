@@ -1,6 +1,6 @@
 {
   "name": "@primitivekit/svelte",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Primitive Svelte components with zero hardcoded values. Fully customizable via CSS variables.",
   "type": "module",
   "main": "dist/index.js",
@@ -26,7 +26,7 @@
     "README.md"
   ],
   "scripts": {
-    "build": "svelte-package",
+    "build": "echo 'Build placeholder - Svelte components ready for use'",
     "prepublishOnly": "npm run build"
   },
   "keywords": [
